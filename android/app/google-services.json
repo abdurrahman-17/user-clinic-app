@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "722289697215",
+    "project_id": "userclinicapp",
+    "storage_bucket": "userclinicapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722289697215:android:271d2724b3fcab27f4810a",
+        "android_client_info": {
+          "package_name": "com.example.user_clinic_token_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722289697215-ipll0clrbnsiecludbi7a0ekfoffkauo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user_clinic_token_app",
+            "certificate_hash": "1cf284af7828f63c7ebeeac5ddf60b8a2444cdba"
+          }
+        },
+        {
+          "client_id": "722289697215-93rt1avqm005omukmj06fs43v6m225t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAidtIObf9dOw0zWOdlUVpwNQ9DvieHms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722289697215-93rt1avqm005omukmj06fs43v6m225t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
